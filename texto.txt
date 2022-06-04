@@ -1,2 +1,7 @@
 C:\Users\ADMIN\Desktop\gitbasico
 una function 
+otra linia
+otra linia
+otra linia
+
+algo de java scrib
